@@ -14,5 +14,7 @@ public class Main {
         System.out.println("Prase");
 
         System.out.println("Pingvin");
+
+        person.drink();
     }
 }
