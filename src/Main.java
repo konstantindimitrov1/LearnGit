@@ -8,5 +8,7 @@ public class Main {
         int age = Integer.parseInt(scanner.nextLine());
 
         Person person = new Person(name, age);
+
+        person.greet();
     }
 }
