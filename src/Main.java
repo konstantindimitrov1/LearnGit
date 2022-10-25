@@ -10,5 +10,9 @@ public class Main {
         Person person = new Person(name, age);
 
         person.greet();
+
+        System.out.println("Prase");
+
+        System.out.println("Pingvin");
     }
 }

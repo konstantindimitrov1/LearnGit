@@ -27,4 +27,8 @@ public class Person {
     public void greet() {
         System.out.println("Hello!");
     }
+
+    public void drink() {
+        System.out.println("Cheers!");
+    }
 }
