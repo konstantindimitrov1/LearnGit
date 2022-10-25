@@ -11,10 +11,10 @@ public class Main {
 
         person.greet();
 
-        System.out.println("Prase");
-
-        System.out.println("Pingvin");
-
         person.drink();
+
+        for (int i = 0; i < 100; i++) {
+            System.out.println("*");
+        }
     }
 }
