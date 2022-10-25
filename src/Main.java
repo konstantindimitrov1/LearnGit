@@ -12,5 +12,7 @@ public class Main {
         person.greet();
 
         System.out.println("Prase");
+
+        System.out.println("Pingvin");
     }
 }
