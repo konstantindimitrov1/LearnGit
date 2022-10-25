@@ -1,3 +1,4 @@
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
@@ -16,5 +17,6 @@ public class Main {
         for (int i = 0; i < 100; i++) {
             System.out.println("*");
         }
+        System.out.println("Hello");
     }
 }
